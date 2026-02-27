@@ -32,8 +32,8 @@ function App() {
   };
 
   return (
-    <main className={'flex flex-col justify-center items-center w-full h-svh p-10 gap-10'}>
-      <div className={"flex flex-col justify-center items-center w-full animate__animated animate__pulse animate__infinite"}>
+    <main className={'flex flex-col justify-center items-center w-full h-svh p-10 gap-10 overflow-hidden'}>
+      <div className={"flex flex-col justify-center items-center w-full animate__animated animate__pulse animate__infinite max-w-80"}>
         <img
           src={images[index]}
           alt="Sawit"
