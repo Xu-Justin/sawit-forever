@@ -46,6 +46,9 @@ function App() {
       <div className={"text-center text-sm opacity-50 animate__animated animate__pulse animate__infinite"}>
         Click on the image to change it.
       </div>
+      <footer className={"text-center text-xs opacity-50"}>
+        View source on <a href="https://github.com/Xu-Justin/sawit-forever" target="_blank" rel="noopener noreferrer" className="underline">GitHub</a>.
+      </footer>
     </main>
   )
 }
