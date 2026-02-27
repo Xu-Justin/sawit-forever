@@ -1,8 +1,8 @@
 import {useState} from "react";
-import sawit_happy from "@/assets/sawit/sawit-happy.png";
-import sawit_sleepy from "@/assets/sawit/sawit-sleepy.png";
-import sawit_hungry from "@/assets/sawit/sawit-hungry.png";
-import sawit_angry from "@/assets/sawit/sawit-angry.png";
+import sawit_happy from "@/assets/sawit/sawit-happy.webp";
+import sawit_sleepy from "@/assets/sawit/sawit-sleepy.webp";
+import sawit_hungry from "@/assets/sawit/sawit-hungry.webp";
+import sawit_angry from "@/assets/sawit/sawit-angry.webp";
 
 const images = [sawit_happy, sawit_sleepy, sawit_hungry, sawit_angry];
 
