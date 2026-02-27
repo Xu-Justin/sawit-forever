@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "sawit-client",
-        "width": 800,
-        "height": 600
+        "title": "Sawit Forever",
+        "width": 360,
+        "height": 800
       }
     ],
     "security": {
