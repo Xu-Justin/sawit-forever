@@ -1,4 +1,4 @@
-import {useState, useEffect} from "react";
+import {useState} from "react";
 import sawit_happy from "@/assets/sawit/sawit-happy.png";
 import sawit_sleepy from "@/assets/sawit/sawit-sleepy.png";
 import sawit_hungry from "@/assets/sawit/sawit-hungry.png";
